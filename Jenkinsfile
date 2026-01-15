@@ -1,5 +1,5 @@
 pipeline {
-    agent dockwr any
+    agent any
 
     stages {
 
